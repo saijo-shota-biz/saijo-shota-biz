@@ -26,6 +26,8 @@
 - **2023/05〜現在** 株式会社マネーフォワードでの[MoneyForward クラウド会計](https://biz.moneyforward.com/accounting/)開発
 - **2024/09〜現在** 株式会社Univearthでの[物流DXプラットフォームSaaS](https://www.lifti.jp/carriers)開発
 
+詳しい業務経歴は[こちらの経歴書](https://www.systemya-saijo.com/career)をご確認ください。
+
 ## 仕事に対する姿勢
 私は、どんなプロジェクトにも柔軟に対応し、クライアントの期待を超える成果を提供することを大切にしています。明確な目標がなくても、イメージを伝えていただければ、それを具現化する力があります。
 
