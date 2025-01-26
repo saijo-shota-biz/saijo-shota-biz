@@ -2,7 +2,8 @@
 
 こんにちは、**さいじょう**と申します。  
 フリーランスのフロントエンドエンジニアとして、主にWebアプリケーションの開発に携わっています。このページを通じて、私がどのようなエンジニアであり、企業にどのような価値を提供できるかをご紹介します。
-もし私と面談してみたい、あるいは少しでも興味を持っていただけましたら、ぜひ **[X(Twitter)のDM](https://twitter.com/saijo_shota)** か **[saijo.shota.contact@gmail.com](saijo.shota.contact@gmail.com)** からお気軽にご連絡ください。
+もし私と面談してみたい、あるいは少しでも興味を持っていただけましたら、
+ぜひ **[X(Twitter)のDM](https://twitter.com/saijo_shota)** か **[saijo.shota.contact@gmail.com](mailto:saijo.shota.contact@gmail.com)** からお気軽にご連絡ください。
 
 ## 現在の状況
 
